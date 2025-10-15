@@ -1,11 +1,5 @@
 streamlit
-flask
-fastapi
-uvicorn
-pandas
-openai
-sqlalchemy
-psycopg2-binary
-networkx
+scikit-learn
 pyvis
-python-dotenv
+networkx
+
